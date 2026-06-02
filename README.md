@@ -74,3 +74,11 @@ Se você deseja clonar este repositório e compilar qualquer um dos exercícios 
 *   Código documentado e comentado para fins de estudo acadêmico.
 *   Organização de ambiente automatizada utilizando tarefas de compilação do VS Code (`tasks.json`).
 *   Foco em padrões de nomenclatura claros para arquivos e variáveis.
+
+
+## 🏆 Desafios de Conclusão (Destaque para Recrutadores)
+
+Esta secção contém os 3 projetos finais de maior complexidade desenvolvidos para consolidar o conhecimento prático em lógica de programação e arquitetura de software em C. Cada desafio foi implementado com foco em eficiência, legibilidade e boas práticas de código.
+
+*   📂 **Pasta dos Projetos:** `Desafios-Finais/`
+    *   📄 `CartasSuperTrunfo.c`: Desafio Super Trunfo - Países, Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
