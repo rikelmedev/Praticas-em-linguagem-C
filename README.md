@@ -6,9 +6,9 @@ Repositório dedicado ao armazenamento e organização dos exercícios, laborat�
 
 ## 🛠️ Tecnologias e Ferramentas
 
-*   **Linguagem:** C (Padrão ANSI)
-*   **IDE:** Visual Studio Code (VS Code)
-*   **Compilador:** GCC (GNU Compiler Collection)
+* **Linguagem:** C (Padrão ANSI)
+* **IDE:** Visual Studio Code (VS Code)
+* **Compilador:** GCC (GNU Compiler Collection)
 
 ---
 
@@ -17,24 +17,24 @@ Repositório dedicado ao armazenamento e organização dos exercícios, laborat�
 Para facilitar a navegação, os conceitos abordados nos códigos foram categorizados conforme os pilares da programação em C:
 
 ### 1. Conceitos Básicos e Sintaxe
-*   `olamundo.c`: Primeiro contato com a linguagem e estrutura básica de um programa.
-*   `Entrada e saida de dados.c` / `Funcoes printf e scanf.c`: Manipulação de fluxos de entrada e saída padrão de dados.
+* `olamundo.c`: Primeiro contato com a linguagem e estrutura básica de um programa.
+* `Entrada e saida de dados.c` / `Funcoes printf e scanf.c`: Manipulação de fluxos de entrada e saída padrão de dados.
 
 ### 2. Sistema de Tipos e Modificadores de Memória
-*   `Exemplo de long int e int.c`: Estudo sobre a extensão do tamanho de armazenamento de inteiros na memória.
-*   `Exemplo de unsigned int e int.c`: Implementação e comportamento de variáveis inteiras sem sinal.
-*   `exemplo de long double e double.c`: Manipulação de precisão estendida para números de ponto flutuante.
-*   `manipulacao de variaveis inteiras.c` / `manipulacao de variaveis de ponto flutuante.c`: Atribuições, escopo e operações base.
+* `Exemplo de long int e int.c`: Estudo sobre a extensão do tamanho de armazenamento de inteiros na memória.
+* `Exemplo de unsigned int e int.c`: Implementação e comportamento de variáveis inteiras sem sinal.
+* `exemplo de long double e double.c`: Manipulação de precisão estendida para números de ponto flutuante.
+* `manipulacao de variaveis inteiras.c` / `manipulacao de variaveis de ponto flutuante.c`: Atribuições, escopo e operações base.
 
 ### 3. Operadores, Conversões e Lógica Condicional
-*   `Operadores matematicos.c` / `divisao de variaveis inteiras.c`: Aplicação de aritmética e tratamento de quocientes.
-*   `conversao implicita.c` / `Conversao explicita.c`: Estudo sobre *Type Casting* (coerção automática e manual de tipos de dados).
-*   `Comparacao simples.c`: Aplicação prática de operadores relacionais.
-*   `Comparacao com tipos de dados diferentes.c`: Análise de comportamento do compilador ao confrontar tipos distintos.
+* `Operadores matematicos.c` / `divisao de variaveis inteiras.c`: Aplicação de aritmética e tratamento de quocientes.
+* `conversao implicita.c` / `Conversao explicita.c`: Estudo sobre *Type Casting* (coerção automática e manual de tipos de dados).
+* `Comparacao simples.c`: Aplicação prática de operadores relacionais.
+* `Comparacao com tipos de dados diferentes.c`: Análise de comportamento do compilador ao confrontar tipos distintos.
 
 ### 4. Projetos Práticos e Aplicações
-*   `Calculadora cm dia de temperaturas.c`: Programa de cálculo de médias e análise de séries de dados climáticos.
-*   `Criando as Cartas do Super Trunfo.c`: Modelagem inicial e lógica para um jogo de cartas interativo em modo terminal.
+* `Calculadora cm dia de temperaturas.c`: Programa de cálculo de médias e análise de séries de dados climáticos.
+* `Criando as Cartas do Super Trunfo.c`: Modelagem e lógica estruturada para um jogo de cartas interativo em modo terminal.
 
 ---
 
@@ -44,41 +44,4 @@ Se você deseja clonar este repositório e compilar qualquer um dos exercícios 
 
 1.  **Clonar o repositório:**
 ```bash
-    git clone [https://github.com/rikelmedev/Praticas-em-linguagem-C.git](https://github.com/rikelmedev/Praticas-em-linguagem-C.git)
-    ```
-
-2.  **Aceder à pasta do projeto:**
-```bash
-    cd Praticas-em-linguagem-C
-    ```
-
-3.  **Compilar um arquivo específico (Exemplo com o Olá Mundo):**
-```bash
-    gcc olamundo.c -o olamundo
-    ```
-
-4.  **Executar o programa compilado:**
-    *   No Linux/macOS:
-```bash
-        ./olamundo
-        ```
-    *   No Windows:
-```bash
-        olamundo.exe
-        ```
-
----
-
-## 📝 Boas Práticas Adotadas
-
-*   Código documentado e comentado para fins de estudo acadêmico.
-*   Organização de ambiente automatizada utilizando tarefas de compilação do VS Code (`tasks.json`).
-*   Foco em padrões de nomenclatura claros para arquivos e variáveis.
-
-
-## 🏆 Desafios de Conclusão (Destaque para Recrutadores)
-
-Esta secção contém os 3 projetos finais de maior complexidade desenvolvidos para consolidar o conhecimento prático em lógica de programação e arquitetura de software em C. Cada desafio foi implementado com foco em eficiência, legibilidade e boas práticas de código.
-
-*   📂 **Pasta dos Projetos:** `Desafios-Finais/`
-    *   📄 `CartasSuperTrunfo.c`: Desafio Super Trunfo - Países, Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
+git clone [https://github.com/rikelmedev/Praticas-em-linguagem-C.git] (https://github.com/rikelmedev/Praticas-em-linguagem-C.git)
